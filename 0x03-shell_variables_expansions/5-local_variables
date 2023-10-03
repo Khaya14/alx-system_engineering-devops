@@ -1,2 +1,2 @@
 #!/bin/bash
-diff set.unsorted printenv.unsorted | grep "<" 
+diff printenv | grep "<" 
