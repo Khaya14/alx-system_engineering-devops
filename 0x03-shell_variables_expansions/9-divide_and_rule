@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ((POWER / DIVIDE)) \n
+echo ((42784 / 32)) \n
